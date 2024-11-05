@@ -6,7 +6,7 @@
 > [!NOTE]
 > The following date is updated manually by Priyanshu when he logins to GitHub!
 
-Last Login to GitHub: **4 November 2024**
+Last Login to GitHub: **5 November 2024**
 
 ---
 
@@ -14,7 +14,7 @@ Last Login to GitHub: **4 November 2024**
 
 <img align="right" alt="Coding-gif" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-- 🔭 I’m currently working on **Multi-Model Emotion and Age Detector**
+- 🔭 I’m currently working on **Real-Time Multimodal Emotion and Age Predictor**
 
 - 🌱 I’m currently learning **Machine Learning**
 
