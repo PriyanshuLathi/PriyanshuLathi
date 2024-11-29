@@ -6,11 +6,11 @@
 > [!NOTE]
 > The following date is updated manually by Priyanshu when he logins to GitHub!
 
-Last Login to GitHub: **26 November 2024**
+Last Login to GitHub: **29 November 2024**
 
 ---
 
-<p>I'm a B.Tech Robotics & Automation student at Symbiosis Institute of Technology, Pune. I have a strong passion for building intuitive and effective front-end solutions, along with a growing ambition in AI/ML engineering and Python development. My focus is on creating practical and impactful applications that address real-world problems. I’m constantly learning and evolving my skills to bring innovative ideas to life.</p>
+<p>I'm a B.Tech Robotics & Automation student at Symbiosis Institute of Technology, Pune. I have a strong passion for building intuitive and effective front-end and back-end solutions and a growing ambition in AI/ML engineering and Python development. My focus is on creating practical and impactful applications that address real-world problems. I’m constantly learning and evolving my skills to bring innovative ideas to life.</p>
 
 <img align="right" alt="Coding-gif" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
