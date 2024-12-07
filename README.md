@@ -6,7 +6,7 @@
 > [!NOTE]
 > The following date is updated manually by Priyanshu when he logins to GitHub!
 
-Last Login to GitHub: **6 December 2024**
+Last Login to GitHub: **7 December 2024**
 
 ---
 
@@ -18,7 +18,7 @@ Last Login to GitHub: **6 December 2024**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Robotics, C/C++, HTML, CSS, JS, Python, Flask, Machine Learning, MySQL**
+- 💬 Ask me about **Robotics, C/C++, HTML, CSS, JS, Python, Web Development, Machine Learning, MySQL**
 
 - 📫 How to reach me **priyanshulathi22@gmail.com**
 
@@ -27,6 +27,7 @@ Last Login to GitHub: **6 December 2024**
 <a href="https://www.linkedin.com/in/priyanshu-lathi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshu-lathi/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/priyanshulathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/priyanshulathi" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/priyanshu_lathi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/priyanshu_lathi/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/priyanshulathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshulathi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
