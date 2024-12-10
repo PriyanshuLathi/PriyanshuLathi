@@ -35,6 +35,11 @@ Last Login to GitHub: **10 December 2024**
 
 ---
 
+<h3 align="left">GSSoC Badges:</h3>
+<p align="center"> <img src="https://github.com/user-attachments/assets/15c1cefa-75d8-4c50-b274-59804732a15d" alt="Champion Badge" width="120" height="120"/> <img src="https://github.com/user-attachments/assets/c16683ff-3eca-464b-9807-0619adf73e7d" alt="Explorer Badge" width="120" height="120"/> <img src="https://github.com/user-attachments/assets/09ca671c-e4b2-456d-961b-84f6492ba515" alt="Adventurer Badge" width="120" height="120"/> <img src="https://github.com/user-attachments/assets/d4f916d8-521c-4886-bcb2-60e74b8ad148" alt="Trailblazer Badge" width="120" height="120"/> <img src="https://github.com/user-attachments/assets/bc1aecd0-387e-4545-b5fb-e77843386dff" alt="Summit Seeker Badge" width="120" height="120"/> </p>
+
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshulathi&show_icons=true&locale=en&layout=compact" alt="priyanshulathi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshulathi&show_icons=true&locale=en" alt="priyanshulathi" /></p>
