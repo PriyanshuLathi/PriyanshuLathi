@@ -6,7 +6,7 @@
 > [!NOTE]
 > The following date is updated manually by Priyanshu when he logins to GitHub!
 
-Last Login to GitHub: **25 December 2024**
+Last Login to GitHub: **27 December 2024**
 
 ---
 
@@ -18,7 +18,7 @@ Last Login to GitHub: **25 December 2024**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Robotics, C/C++, HTML, CSS, JS, Python, Web Development, Machine Learning, MySQL**
+- 💬 Ask me about **Robotics, C, C++, HTML, CSS, JS, Python, Web Development, Machine Learning, MySQL**
 
 - 📫 How to reach me **priyanshulathi22@gmail.com**
 
