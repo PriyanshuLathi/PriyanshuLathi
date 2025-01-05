@@ -14,11 +14,11 @@ Last Login to GitHub: **5 January 2025**
 
 <img align="right" alt="Coding-gif" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-- 🔭 I’m currently working on **Real-Time Multimodal Emotion and Age Predictor**
+<!-- - 🔭 I’m currently working on **Real-Time Multimodal Emotion and Age Predictor**-->
 
-- 🌱 I’m currently learning **Machine Learning**
+<!-- - 🌱 I’m currently learning **Machine Learning** -->
 
-- 💬 Ask me about **Robotics, C, C++, HTML, CSS, JS, Python, Web Development, Machine Learning, MySQL**
+- 💬 Ask me about **Robotics, C, C++, Python, HTML, CSS, JS, Full Stack Development, Machine Learning, Deep Learning, Computer Vision, MySQL, MongoDB**
 
 - 📫 How to reach me **priyanshulathi22@gmail.com**
 
