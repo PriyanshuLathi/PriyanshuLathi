@@ -16,13 +16,17 @@ Last Login to GitHub: **5 February 2025**
 
 <!-- - 🔭 I’m currently working on **Real-Time Multimodal Emotion and Age Predictor**-->
 
-<!-- - 🌱 I’m currently learning **Machine Learning** -->
+- 🌱 I’m currently learning **Generative AI**
 
 - 🔭 I'm currently working as an Intern at [SpacECE](https://www.spacece.in/)
 
 - 💬 Ask me about **Full Stack Development, Machine Learning, Deep Learning, Computer Vision, DBMS, GenAI**
 
 - 📫 How to reach me **priyanshulathi22@gmail.com**
+
+<h3 align="left">💼 Experience:</h2>
+<p align = "Left"><b>Data Science Intern | SpacECE India Foundation (Jan 2025 - Present)</b></p>
+<p align = "Left">Open-Source Contributor | GirlScript Summer of Code Extd. 2024 (GSSoC'24) (Oct 2024 - Nov 2024)</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,8 +46,19 @@ Last Login to GitHub: **5 February 2025**
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshulathi&show_icons=true&locale=en&layout=compact" alt="priyanshulathi" /></p>
+<h3 align="left">Github Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshulathi&show_icons=true&locale=en" alt="priyanshulathi" /></p>
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=priyanshulathi&show_icons=true&locale=en" alt="priyanshulathi" />
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshulathi&" alt="priyanshulathi" /></p>
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshulathi&show_icons=true&locale=en&layout=compact" alt="priyanshulathi" />
+  </a>
+</div>
+
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshulathi&" alt="priyanshulathi" /></p> -->
