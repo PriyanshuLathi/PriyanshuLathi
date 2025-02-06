@@ -24,9 +24,15 @@ Last Login to GitHub: **5 February 2025**
 
 - 📫 How to reach me **priyanshulathi22@gmail.com**
 
+<h3 align="left">Try Now!</h3>
+
+- [Job Description Summarizer using Gemini](https://ai-job-description-summarizer.streamlit.app/)
+- [Resume Evaluator and ATS Score Analyzer](https://resume-evaluator-and-ats-score-analyzer.streamlit.app/)
+- [Interactive Parent-Child Activity Planner](https://interactive-parent-child-activity-planner.onrender.com/)
+
 <h3 align="left">💼 Experience:</h2>
-<p align = "Left"><b>Data Science Intern | SpacECE India Foundation (Jan 2025 - Present)</b></p>
-<p align = "Left">Open-Source Contributor | GirlScript Summer of Code Extd. 2024 (GSSoC'24) (Oct 2024 - Nov 2024)</b></p>
+<p align = "Left">Data Science Intern | SpacECE India Foundation (Jan 2025 - Present</p>
+<p align = "Left">Open-Source Contributor | GirlScript Summer of Code Extd. 2024 (GSSoC'24) (Oct 2024 - Nov 2024)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
