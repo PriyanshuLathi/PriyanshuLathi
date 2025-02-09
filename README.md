@@ -31,8 +31,8 @@ Last Login to GitHub: **9 February 2025**
 - [Interactive Parent-Child Activity Planner](https://interactive-parent-child-activity-planner.onrender.com/)
 
 <h3 align="left">💼 Experience:</h2>
-<p align = "Left">Data Science Intern | SpacECE India Foundation (Jan 2025 - Present)</p>
-<p align = "Left">Open-Source Contributor | GirlScript Summer of Code Extd. 2024 (GSSoC'24) (Oct 2024 - Nov 2024)</p>
+<p align = "Left">Data Science Intern | SpacECE India Foundation | Jan 2025 - Present</p>
+<p align = "Left">Open-Source Contributor | GirlScript Summer of Code Extd. 2024 (GSSoC'24) | Oct 2024 - Nov 2024</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
