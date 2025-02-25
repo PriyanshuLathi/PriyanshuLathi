@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Lathi</h1>
+<h1 align="center">Hi, I'm Priyanshu Lathi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
 <h3 align="center">An Ambitious Web Dev and AI/ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshulathi&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshulathi" /> </p>
