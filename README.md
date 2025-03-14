@@ -6,7 +6,7 @@
 > [!NOTE]
 > The following date is updated manually by Priyanshu when he logins to GitHub!
 
-Last Login to GitHub: **13 March 2025**
+Last Login to GitHub: **14 March 2025**
 
 ---
 
@@ -27,8 +27,8 @@ Last Login to GitHub: **13 March 2025**
 <h3 align="left">Try Now!</h3>
 
 - [AI-Powered Student Progress Report Generator](https://ai-student-progress-report-generator.onrender.com)
-- [Job Description Summarizer](https://ai-job-description-summarizer.streamlit.app/)
-- [Resume Evaluator and ATS Score Analyzer](https://resume-evaluator-and-ats-score-analyzer.streamlit.app/)
+- [Job Description Summarizer](https://job-description-summarizer.onrender.com)
+- [Resume Evaluator and ATS Score Analyzer](https://resume-evaluator-and-ats-score-analyzer.onrender.com)
 - [Interactive Parent-Child Activity Planner](https://interactive-parent-child-activity-planner.onrender.com/)
 
 <h3 align="left">💼 Experience:</h2>
