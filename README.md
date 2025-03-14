@@ -18,7 +18,7 @@ Last Login to GitHub: **14 March 2025**
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 🔭 I'm currently working as an Intern at [SpacECE](https://www.spacece.in/)
+- 🔭 I'm currently working as an Intern at SpacECE
 
 - 💬 Ask me about **Full Stack Development, Machine Learning, Deep Learning, Computer Vision, DBMS, GenAI**
 
