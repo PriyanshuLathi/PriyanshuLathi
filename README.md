@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Priyanshu Lathi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
-<h3 align="center">An Ambitious Web Dev and AI/ML Enthusiast</h3>
+<!-- BANNER -->
+<p align="center"><img align="center" alt="Banner" src="./others/github-header-image.png"></p><h3 align="center">Full Stack Developer and AI Enthusiast from India <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshulathi&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshulathi" /> </p>
+
+---
 
 > [!NOTE]
 > The following date is updated manually by Priyanshu when he logins to GitHub!
@@ -14,27 +16,28 @@ Last Login to GitHub: **18 March 2025**
 
 <img align="right" alt="Coding-gif" width="350" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-<!-- - 🔭 I’m currently working on **Real-Time Multimodal Emotion and Age Predictor**-->
+<!-- ABOUT ME -->
+<h3 align="left">About me :</h3>
+
+<!-- - 🔭 I’m currently working on ** **-->
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 🔭 I'm currently working as an Intern at **SpacECE**
+- 🔭 I'm currently working as an Intern at SpacECE
 
-- 💬 Ask me about **Full Stack Development, Machine Learning, Deep Learning, Computer Vision, DBMS, GenAI**
+- 💬 Ask me about **DSA, Full Stack Development, MERN Developement, Machine Learning, Deep Learning, Computer Vision, DBMS, Generative AI**
 
 - 📫 How to reach me **priyanshulathi22@gmail.com**
 
 <h3 align="left">Try Now!</h3>
 
 - [AI-Powered Student Progress Report Generator](https://ai-student-progress-report-generator.onrender.com)
-- [Job Description Summarizer](https://job-description-summarizer.onrender.com)
-- [Resume Evaluator and ATS Score Analyzer](https://resume-evaluator-and-ats-score-analyzer.onrender.com)
+- [Job Description Summarizer](https://ai-job-description-summarizer.streamlit.app/)
+- [Resume Evaluator and ATS Score Analyzer](https://resume-evaluator-and-ats-score-analyzer.streamlit.app/)
 - [Interactive Parent-Child Activity Planner](https://interactive-parent-child-activity-planner.onrender.com/)
+- [To-Do List](https://priyanshus-to-do-list.onrender.com/)
 
-<h3 align="left">💼 Experience:</h2>
-<p align = "Left">Data Science Intern | SpacECE India Foundation | Jan 2025 - Present</p>
-<p align = "Left">Open-Source Contributor | GirlScript Summer of Code Extd. 2024 (GSSoC'24) | Oct 2024 - Nov 2024</p>
-
+<!-- SOCIAL MEDIA -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/priyanshu-lathi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshu-lathi/" height="30" width="40" /></a>
@@ -43,8 +46,55 @@ Last Login to GitHub: **18 March 2025**
 <a href="https://www.leetcode.com/priyanshulathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshulathi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="35"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<!-- EXPERIENCES -->
+<h3 align="left">Experiences:</h2>
+<p align = "Left">Data Science Intern | SpacECE India Foundation | Jan 2025 - Present</p>
+<p align = "Left">Open-Source Contributor | GirlScript Summer of Code Extd. 2024 (GSSoC'24) | Oct 2024 - Nov 2024</p>
+
+---
+
+<!-- SKILLS -->
+<h3 align="center">Programming Languages</h3>
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" alt="My Skills">
+  </a>
+</div>
+
+<h3 align="center">Web Development</h3>
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express,npm,flask&perline=4" alt="My Skills">
+  </a>
+</div>
+
+<h3 align="center">Artificial Intelligence</h3>
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv" alt="My Skills">
+  </a>
+</div>
+
+<h3 align="center">DevOps</h3>
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,linux,ubuntu" alt="My Skills">
+  </a>
+</div>
+
+<h3 align="center">Databases</h3>
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="My Skills">
+  </a>
+</div>
+
+<h3 align="center">Other Tools</h3>
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=postman,figma,vscode,pycharm,eclipse,md,ros,matlab,arduino&perline=5" alt="My Skills">
+  </a>
+</div>
 
 ---
 
@@ -53,19 +103,16 @@ Last Login to GitHub: **18 March 2025**
 
 ---
 
-<h3 align="left">Github Stats:</h3>
+<!-- GITHUB STATS -->
+<h3 align="left">GitHub Stats:</h3>
 
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=priyanshulathi&show_icons=true&locale=en" alt="priyanshulathi" />
+    <img src="https://bad-apple-github-readme.vercel.app/api?username=PriyanshuLathi&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt=" ">
   </a>
 </div>
 
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshulathi&show_icons=true&locale=en&layout=compact" alt="priyanshulathi" />
-  </a>
+    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=PriyanshuLathi&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt=" ">
 </div>
-
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshulathi&" alt="priyanshulathi" /></p> -->
