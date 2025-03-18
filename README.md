@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshulathi&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshulathi" /> </p>
 
----
-
-> [!NOTE]
-> The following date is updated manually by Priyanshu when he logins to GitHub!
-
 Last Login to GitHub: **18 March 2025**
 
 ---
@@ -31,9 +26,12 @@ Last Login to GitHub: **18 March 2025**
 
 <h3 align="left">Try Now!</h3>
 
+> [!NOTE]
+> These projects are hosted on Render and may take around ~30-60 seconds to load. Thank you for your patience! 😊
+
 - [AI-Powered Student Progress Report Generator](https://ai-student-progress-report-generator.onrender.com)
-- [Job Description Summarizer](https://ai-job-description-summarizer.streamlit.app/)
-- [Resume Evaluator and ATS Score Analyzer](https://resume-evaluator-and-ats-score-analyzer.streamlit.app/)
+- [Job Description Summarizer](https://job-description-summarizer.onrender.com/)
+- [Resume Evaluator and ATS Score Analyzer](https://resume-evaluator-and-ats-score-analyzer.onrender.com/)
 - [Interactive Parent-Child Activity Planner](https://interactive-parent-child-activity-planner.onrender.com/)
 - [To-Do List](https://priyanshus-to-do-list.onrender.com/)
 
