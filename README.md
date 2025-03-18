@@ -112,5 +112,5 @@ Last Login to GitHub: **18 March 2025**
 
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=PriyanshuLathi&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt=" ">
+    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=PriyanshuLathi&layout=donut&count_private=true&theme=blue-green&title_color=00b3ff&hide=Jupyter%20Notebook" alt=" ">
 </div>
