@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshulathi&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshulathi" /> </p>
 
-Last Login to GitHub: **18 March 2025**
+Last Login to GitHub: **19 March 2025**
 
 ---
 
@@ -20,7 +20,7 @@ Last Login to GitHub: **18 March 2025**
 
 - 🔭 I'm currently working as an Intern at SpacECE
 
-- 💬 Ask me about **DSA, Full Stack Development, MERN Developement, Machine Learning, Deep Learning, Computer Vision, DBMS, Generative AI**
+- 💬 Ask me about **DSA, Full Stack Development, MERN Development, Machine Learning, Deep Learning, Computer Vision, DBMS, Generative AI**
 
 - 📫 How to reach me **priyanshulathi22@gmail.com**
 
