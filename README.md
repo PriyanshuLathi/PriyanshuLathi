@@ -12,7 +12,7 @@ Last Login to GitHub: **19 March 2025**
 <img align="right" alt="Coding-gif" width="350" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
 <!-- ABOUT ME -->
-<h3 align="left">About me :</h3>
+<h3 align="left">About me:</h3>
 
 <!-- - 🔭 I’m currently working on ** **-->
 
