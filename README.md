@@ -18,11 +18,11 @@ Last Login to GitHub: **22 March 2025**
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 🔭 I'm currently working as an Intern at SpacECE
+- 🔭 I'm currently working as an Intern at **SpacECE**
 
 - 💬 Ask me about **DSA, Full Stack Development, MERN Development, Machine Learning, Deep Learning, Computer Vision, DBMS, Generative AI**
 
-- 📫 How to reach me **priyanshulathi22@gmail.com**
+- 📫 Reach me at **priyanshulathi22@gmail.com**
 
 <h3 align="left">Try Now!</h3>
 
