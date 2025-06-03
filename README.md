@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshulathi&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshulathi" /> </p>
 
-Last Login to GitHub: **2 June 2025**
+Last Login to GitHub: **4 June 2025**
 
 ---
 
@@ -76,7 +76,7 @@ Last Login to GitHub: **2 June 2025**
 <h3 align="center">DevOps</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,linux,ubuntu" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,linux,ubuntu,docker" alt="My Skills">
   </a>
 </div>
 
