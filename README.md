@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshulathi&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshulathi" /> </p>
 
-Last Login to GitHub: **9 June 2025**
+Last Login to GitHub: **16 June 2025**
 
 ---
 
@@ -18,7 +18,7 @@ Last Login to GitHub: **9 June 2025**
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 🔭 I'm currently working as an Intern at **SpacECE**
+- 🔭 I'm currently working as an BE Intern at **Techolution**
 
 - 💬 Ask me about **DSA, Full Stack Development, MERN Development, Machine Learning, Deep Learning, Computer Vision, DBMS, Generative AI**
 
@@ -46,7 +46,8 @@ Last Login to GitHub: **9 June 2025**
 
 <!-- EXPERIENCES -->
 <h3 align="left">Experiences:</h2>
-<p align = "Left">Data Science Intern | SpacECE India Foundation | Jan 2025 - Present</p>
+<p align = "Left">Python Backend Engineer Intern | <a href="https://www.techolution.com/">Techolution</a> | Jun 2025 - Present</p>
+<p align = "Left">Data Science Intern | SpacECE India Foundation | Jan 2025 - April 2025</p>
 <p align = "Left">Open-Source Contributor | GirlScript Summer of Code Extd. 2024 (GSSoC'24) | Oct 2024 - Nov 2024</p>
 
 ---
