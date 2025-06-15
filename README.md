@@ -18,7 +18,7 @@ Last Login to GitHub: **16 June 2025**
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 🔭 I'm currently working as an BE Intern at **Techolution**
+- 🔭 I'm currently working as an Intern at **Techolution**
 
 - 💬 Ask me about **DSA, Full Stack Development, MERN Development, Machine Learning, Deep Learning, Computer Vision, DBMS, Generative AI**
 
@@ -45,10 +45,13 @@ Last Login to GitHub: **16 June 2025**
 </p>
 
 <!-- EXPERIENCES -->
-<h3 align="left">Experiences:</h2>
-<p align = "Left">Python Backend Engineer Intern | <a href="https://www.techolution.com/">Techolution</a> | Jun 2025 - Present</p>
-<p align = "Left">Data Science Intern | SpacECE India Foundation | Jan 2025 - April 2025</p>
-<p align = "Left">Open-Source Contributor | GirlScript Summer of Code Extd. 2024 (GSSoC'24) | Oct 2024 - Nov 2024</p>
+<h3 align="left">Experiences :</h3>
+
+- Python Backend Engineer Intern at [Techolution](https://www.techolution.com/) (Jun 2025 - Present)
+
+- Data Science Intern at [SpacECE](https://www.spacece.in/) (Jan 2025 - April 2025)
+  
+- Open-Source Contributor at [GirlScript Summer of Code](https://gssoc.girlscript.tech/) (Oct 2024 - Nov 2024)
 
 ---
 
