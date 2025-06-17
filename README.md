@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshulathi&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshulathi" /> </p>
 
-Last Login to GitHub: **16 June 2025**
+Last Login to GitHub: **18 June 2025**
 
 ---
 
@@ -87,7 +87,7 @@ Last Login to GitHub: **16 June 2025**
 <h3 align="center">Databases</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,redis" alt="My Skills">
   </a>
 </div>
 
