@@ -47,7 +47,7 @@ Last Login to GitHub: **8 July 2025**
 <!-- EXPERIENCES -->
 <h3 align="left">Experiences :</h3>
 
-- Python Backend Developer Intern at [Techolution](https://www.techolution.com/) (Jun 2025 - Present)
+- Python Developer Intern at [Techolution](https://www.techolution.com/) (Jun 2025 - Present)
 
 - Data Science Intern at [SpacECE](https://www.spacece.in/) (Jan 2025 - April 2025)
   
