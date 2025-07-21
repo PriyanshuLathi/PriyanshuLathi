@@ -66,7 +66,7 @@ Last Login to GitHub: **21 July 2025**
 <h3 align="center">Web Development</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express,npm,flask&perline=4" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,flask,fastapi&perline=3" alt="My Skills">
   </a>
 </div>
 
@@ -80,7 +80,7 @@ Last Login to GitHub: **21 July 2025**
 <h3 align="center">DevOps</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,linux,ubuntu,docker" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,linux,ubuntu,docker,gcp&perline=4" alt="My Skills">
   </a>
 </div>
 
