@@ -18,7 +18,7 @@ Last Login to GitHub: **3 September 2025**
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 🔭 I'm currently working as an Intern at **Techolution**
+- 🔭 I'm currently working as an AI Python Engineer at **Techolution**
 
 - 💬 Ask me about **DSA, Full Stack Development, MERN Development, Machine Learning, Deep Learning, Computer Vision, DBMS, Generative AI**
 
